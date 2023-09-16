@@ -4,3 +4,6 @@
 /.idea/modules.xml
 /.idea/inspectionProfiles/profiles_settings.xml
 /.idea/vcs.xml
+__pycache__/map.cpython-310.pyc
+__pycache__/player.cpython-310.pyc
+__pycache__/settings.cpython-310.pyc
